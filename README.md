@@ -1,17 +1,18 @@
-# unal-poo
-## Tercera actividad de POO
+## Getting Started
 
-### Ejercicio 1: Calculadora de promedio y desviacion estandar.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Diagrama de clases:
+## Folder Structure
 
+The workspace contains two folders by default, where:
 
-Casos de uso:
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-### Ejercicio 2: Calculadora de volumen y area superficial de figuras geometricas.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-Diagrama de clases:
+## Dependency Management
 
-
-Casos de uso:
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
